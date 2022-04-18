@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @盛京吴彦祖
+- 👋 Hi, I’m 盛京吴彦祖
 - 👀 I’m interested in C/C++
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on nullptr
